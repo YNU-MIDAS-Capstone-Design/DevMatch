@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/YNU-MIDAS-Capstone-Design/back-spring.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/YNU-MIDAS-Capstone-Design/front-react.git
+[submodule "db"]
+	path = db
+	url = https://github.com/YNU-MIDAS-Capstone-Design/db-mysql.git
